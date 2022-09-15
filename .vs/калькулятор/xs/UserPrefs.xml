@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{28A0827A-EF06-4619-96B7-C554EAF99E5F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="калькулятор/Program.cs">
+    <Files>
+      <File FileName="калькулятор/Program.cs" Line="57" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="калькулятор" expanded="True">
+            <Node name="калькулятор" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.калькулятор PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
