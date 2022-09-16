@@ -1,14 +1,12 @@
-﻿
-
-    Console.WriteLine("1. Сложить 2 числа");
-    Console.WriteLine("2. Вычесть первое из второго");
-    Console.WriteLine("3. Перемножить два числа");
-    Console.WriteLine("4. Разделить первое на второе");
-    Console.WriteLine("5. Возвести в степень N первое число");
-    Console.WriteLine("6. Найти квадратный корень из числа");
-    Console.WriteLine("7. Найти 1 процент от числа");
-    Console.WriteLine("8. Найти факториал из числа");
-    Console.WriteLine("9. Выйти из программы");
+﻿Console.WriteLine("1. Сложить 2 числа");
+Console.WriteLine("2. Вычесть первое из второго");
+Console.WriteLine("3. Перемножить два числа");
+Console.WriteLine("4. Разделить первое на второе");
+Console.WriteLine("5. Возвести в степень N первое число");
+Console.WriteLine("6. Найти квадратный корень из числа");
+Console.WriteLine("7. Найти 1 процент от числа");
+Console.WriteLine("8. Найти факториал из числа");
+Console.WriteLine("9. Выйти из программы");
 int NumOpI1SS = 1;
 while (NumOpI1SS != 9)
 {
